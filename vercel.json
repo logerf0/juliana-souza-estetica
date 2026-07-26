@@ -1,6 +1,0 @@
-{
-  "buildCommand": "echo 'no build needed'",
-  "installCommand": "echo 'no dependencies'",
-  "framework": "other",
-  "outputDirectory": "."
-}
