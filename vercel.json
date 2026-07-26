@@ -1,0 +1,6 @@
+{
+  "framework": "parcel",
+  "buildCommand": "echo 'static site'",
+  "outputDirectory": ".",
+  "installCommand": "echo 'no dependencies'"
+}
